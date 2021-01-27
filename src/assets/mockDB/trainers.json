@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "jeniffer jones",
+        "image": "F1.jpg",
+        "speciality" : ["bodybuilding"]
+    },
+    {
+        "id": 2,
+        "name": "samantha wright",
+        "image": "F2.jpg",
+        "speciality" : ["crossfit", "cardio"]
+    },
+    {
+        "id": 3,
+        "name": "dakota stephens",
+        "image": "F3.jpg",
+        "speciality" : ["crossfit", "cardio"]
+    },
+    {
+        "id": 4,
+        "name": "michelle lee",
+        "image": "F4.jpg",
+        "speciality" : ["crossfit", "calisthenics"]
+    },
+    {
+        "id": 5,
+        "name": "david erickson",
+        "image": "M1.jpg",
+        "speciality" : ["bodybuilding", "crossfit"]
+    },
+    {
+        "id": 6,
+        "name": "john owens",
+        "image": "M2.jpg",
+        "speciality" : ["bodybuilding", "calisthenics"]
+    },
+    {
+        "id": 7,
+        "name": "enrique vidal",
+        "image": "M3.jpg",
+        "speciality" : ["bodybuilding", "calisthenics", "cardio"]
+    }
+]

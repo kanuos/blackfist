@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title" : "how to maximize time spent at the gym",
+        "image" : "https://i.ibb.co/RbS2S4H/B1.jpg",
+        "category": ["workout"],
+        "author": 1,
+        "date" : "2020/05/16"
+    },
+    {
+        "id": 2,
+        "title" : "how to balance between weight lifting and cardio",
+        "image" : "https://i.ibb.co/RhYsWqk/B2.jpg",
+        "category": ["cardio", "workout"],
+        "author": 1,
+        "date" : "2020/04/09"
+    },
+    {
+        "id": 3,
+        "title" : "reduce belly fat in 30 days",
+        "image" : "https://i.ibb.co/MfjYJyY/B3.jpg",
+        "category": ["health", "workout", "cardio"],
+        "author": 2,
+        "date" : "2020/10/21"
+    },
+    {
+        "id": 4,
+        "title" : "live a healthier life with cardio",
+        "image" : "https://i.ibb.co/sPSf2zX/B4.jpg",
+        "category": ["health", "workout"],
+        "author": 2,
+        "date" : "2020/11/10"
+    },
+    {
+        "id": 5,
+        "title" : "everything you need to know about nutrition",
+        "image" : "https://i.ibb.co/Y2Tsm01/B5.jpg",
+        "category": ["health", "workout"],
+        "author": 2,
+        "date" : "2020/10/10"
+    },
+    {
+        "id": 6,
+        "title" : "calisthenics 101",
+        "image" : "https://i.ibb.co/2nwQNcv/B6.jpg",
+        "category": ["health", "workout"],
+        "author": 3,
+        "date" : "2020/10/20"
+    },
+    {
+        "id": 7,
+        "title" : "how to improve your core strength",
+        "image" : "https://i.ibb.co/4jHWYDD/B7.jpg",
+        "category": ["health", "workout"],
+        "author": 4,
+        "date" : "2020/05/16"
+    },
+    {
+        "id": 8,
+        "title" : "quintessential asanas you must try",
+        "image" : "https://i.ibb.co/gRdj5t1/B8.jpg",
+        "category": ["health", "workout"],
+        "author": 5,
+        "date" : "2020/07/10"
+    },
+    {
+        "id": 9,
+        "title" : "how to improve your focus with yoga",
+        "image" : "https://i.ibb.co/LCk9mQT/B9.jpg",
+        "category": ["health", "workout"],
+        "author": 6,
+        "date" : "2020/10/10"
+    },
+    {
+        "id": 10,
+        "title" : "myths about losing weight",
+        "image" : "https://i.ibb.co/cg3tqFQ/B10.jpg",
+        "category": ["health", "workout"],
+        "author": 3,
+        "date" : "2020/08/22"
+    }
+]

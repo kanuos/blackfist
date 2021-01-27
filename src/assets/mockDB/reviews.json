@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "name" : "Sarah Linn",
+        "image" : "https://i.ibb.co/y4FFqGK/F1.jpg",
+        "rating" : 4
+    },
+    {
+        "id" : 2,
+        "name" : "Elly Winston",
+        "image" : "https://i.ibb.co/bbvZbBh/F2.jpg",
+        "rating" : 5
+    },
+    {
+        "id" : 3,
+        "name" : "Vanessa Cox",
+        "image" : "https://i.ibb.co/Vpm5hkr/F3.jpg",
+        "rating" : 5
+    },
+    {
+        "id" : 4,
+        "name" : "Vicky J",
+        "image" : "https://i.ibb.co/xMhCnMN/F4.jpg",
+        "rating" : 4
+    },
+    {
+        "id" : 5,
+        "name" : "Adam Gilbert",
+        "image" : "https://i.ibb.co/SdNc3C4/M1.jpg",
+        "rating" : 5
+    },
+    {
+        "id" : 6,
+        "name" : "John Doe",
+        "image" : "https://i.ibb.co/Qv3rLnQ/M2.jpg",
+        "rating" : 3
+    }
+]

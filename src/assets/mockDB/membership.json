@@ -1,0 +1,20 @@
+[
+    {
+        "id": "standard",
+        "price": 45,
+        "theme" : "red",
+        "image" : "https://i.ibb.co/7vnKXWG/standard.jpg"
+    },
+    {
+        "id": "professional",
+        "price": 80,
+        "theme" : "pink",
+        "image" : "https://i.ibb.co/qJyZByW/professional.jpg"
+    },
+    {
+        "id": "family",
+        "price": 120,
+        "theme" : "yellow",
+        "image" : "https://i.ibb.co/VCWGJ94/family.jpg"
+    }
+]

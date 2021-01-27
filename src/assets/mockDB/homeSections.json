@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "title": "bodybuilding",
+        "image" : "https://i.ibb.co/HngbzF6/bodybuilding.jpg"
+    },
+    {
+        "id" : 2,
+        "title": "crossfit",
+        "image" : "https://i.ibb.co/wKRbRV0/crossfit.jpg"
+    },
+    {
+        "id" : 3,
+        "title": "cardio",
+        "image" : "https://i.ibb.co/rw0xPys/cardio.jpg"
+    },
+    {
+        "id" : 4,
+        "title": "fitness",
+        "image" : "https://i.ibb.co/MP5W30g/fitness.jpg"
+    }
+]
